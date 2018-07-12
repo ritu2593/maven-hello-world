@@ -1,7 +1,7 @@
-apiVersion: v1
+-apiVersion: v1
 kind: Pod
 metadata:
-  name: kube.demo.ritu
+  name: kube.demo.ritu-new
   labels:
     app: helloworld
 spec:
