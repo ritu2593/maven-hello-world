@@ -14,12 +14,12 @@ spec:
 
   containers:
 
-  - name: k8s-demo
+  - name: ritu-demo
 
     image: rituaigal/kube-demo:latest
 
     ports:
 
-    - name: nodejs-port
+    - name: demo-port
 
       containerPort: 3000
